@@ -56,13 +56,13 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>nexusdeploymentrepo</id>
-	  <name>icic3-Snapshot Nexus Repository</name>
-      <url>http://54.208.130.205:8081/repository/icic3-Snapshot/</url> <!-- Update the IP/Address to Your Nexus VM IP -->
+	  <name>icici4-Snapshot Nexus Repository</name>
+      <url>http://54.208.130.205:8081/repository/icici4-Snapshot/</url> <!-- Update the IP/Address to Your Nexus VM IP -->
     </snapshotRepository>											  <!-- Mmake sure to create the "maven-snapshots" repo in Nexus -->
 	<repository>
 	  <id>nexusdeploymentrepo</id>
-	  <name>icic3-Release Nexus Repository</name>
-      <url>http://54.208.130.205:8081/repository/icic3-Release/</url> <!-- Update the IP/Address to Your Nexus VM IP -->
+	  <name>icici4-Release Nexus Repository</name>
+      <url>http://54.208.130.205:8081/repository/icici4-Release/</url> <!-- Update the IP/Address to Your Nexus VM IP -->
     </repository>													 <!-- Also make sure you have the above two or one repositories created -->
   
   </distributionManagement>
