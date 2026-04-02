@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>JavaWebApp</artifactId>
 	<packging>war</packging>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>JavaWebApp</name>
 	<description>JavaWebApp project for Spring Boot</description>
 
